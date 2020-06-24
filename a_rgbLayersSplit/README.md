@@ -2,7 +2,7 @@
 Given an image, split and display the rgb (red, green, blue) components of that image
 
 ## Demo
-* **Input**
+* **Input** <br/>
 ![Input](/a_rgbLayersSplit/images/input.png)
 
 * **Output - Matlab Figure**
